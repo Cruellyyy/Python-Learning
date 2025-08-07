@@ -1,0 +1,5 @@
+print ("printing in \n 2nd line ")
+print ("printing slash \\ ")
+print ("printing tab \t")
+print ("printing single quote \'")
+print ("printing double quote \"")
