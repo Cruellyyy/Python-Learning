@@ -6,3 +6,6 @@ NUM2 = int(input("Enter your second number: "))
 
 result = NUM1 + NUM2
 print(result) 
+
+name = input("Enter ur name :- ")
+age = int(input("Enter ur age :- "))

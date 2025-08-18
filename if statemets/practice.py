@@ -2,8 +2,6 @@ a = 8
 
 if(a > 9):
     print ("a is greater than 9")
-    
-
 elif(a < 9):
     print("a is samller than 9")
 
