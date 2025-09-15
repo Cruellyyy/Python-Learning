@@ -1,0 +1,7 @@
+Arsh is a tech guy.
+He is also a gym rat
+Although he is a bio student, he loves engenering fields like coding, electonics, meechanical etc.
+He also love bioloy and science, he wants to know the secrects of living beings
+He is curious to know the secrects of this world, he seeks knowledge
+But he is very lazzy and distracted
+He is currently learning python, then he will learn api, database and then flask so he could make his gym app with prince.
